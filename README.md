@@ -13,7 +13,7 @@
 
 - 🏢I started my way of learning the AAA game Programming 
 - 👨‍💻 As a IT student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C#,C++,or anything related to Game Programming OR help me😅ز
+- 💬 Ask me about my experience with C#,C++,or anything related to Game Programming OR help me😅.
 - 👨‍💻 Check out my portfolio at &nbsp; <img src="https://media.giphy.com/media/JoWK4dUIsYK4Fv0E0D/giphy.gif" width="50"> &nbsp; to see some of the projects I've worked on.
 - ⚡Fun fact: I am a gamer and I was introduced to the field of game development by chance in conversations with a friend a long time ago and I became passionate about it.
 
@@ -28,6 +28,7 @@
 <h2><img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width=45> Tech Stack</h2>
 
 [![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=%23fff)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
