@@ -13,7 +13,7 @@
 
 - 🏢I started my way of learning the AAA game Programming 
 - 👨‍💻 As a IT student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C#, C++, or anything related to Game Programming OR help me 😅.
+- 💬 Ask me about my experience with C#,C++,or anything related to Game Programming OR help me😅ز
 - 👨‍💻 Check out my portfolio at &nbsp; <img src="https://media.giphy.com/media/JoWK4dUIsYK4Fv0E0D/giphy.gif" width="50"> &nbsp; to see some of the projects I've worked on.
 - ⚡Fun fact: I am a gamer and I was introduced to the field of game development by chance in conversations with a friend a long time ago and I became passionate about it.
 
